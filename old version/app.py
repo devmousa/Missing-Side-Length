@@ -1,3 +1,14 @@
+#####################################################
+#                                                   #
+#                                                   #
+#                 old version                       #
+#                using tkinter                      #
+#                 see the new                       #
+#               in main.py file                     #
+#                                                   #
+#                                                   #
+######################################################
+
 import tkinter as tk
 import math as m
 
